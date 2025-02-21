@@ -1,11 +1,3 @@
-# Level 1
-## Level 2
-### Level 3
+# Welcome to My Site
 
-**This Is Bold**
-
-_This Is Bold_
-
-List
-* Item 1
-* Item 2
+[Click Here](internal_css.html)
